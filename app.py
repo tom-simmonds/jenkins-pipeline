@@ -9,7 +9,6 @@ def calculate(a, b, op):
         return a / b
     raise ValueError(f"Unsupported operator: {op}")
 
-
 def main():
     print("Basic Calculator")
     try:
