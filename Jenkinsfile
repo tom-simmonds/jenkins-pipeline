@@ -4,7 +4,7 @@ node {
     }
 
     stage('Build') {
-        sh 'python3 app.py'
+        sh 'python3 -c "from app import calculate; print(calculate(10, 5, \'+\'))"'
     }
 
     stage('Test') {
