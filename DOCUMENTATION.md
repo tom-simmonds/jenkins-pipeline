@@ -267,9 +267,12 @@ node {
 
 ## 7. Pipeline Execution
 
-[Add screenshot of successful build here]  
-[Add screenshot of stage view here]  
-[Add screenshot of console output here]
+<img width="1855" height="791" alt="image" src="https://github.com/user-attachments/assets/0e975ba8-daaa-4298-8b64-14b11efd3969" />
+
+<img width="1837" height="899" alt="image" src="https://github.com/user-attachments/assets/6bed3d56-6794-4581-afcc-34dc22a9dbc5" />
+
+<img width="1851" height="882" alt="image" src="https://github.com/user-attachments/assets/32397322-c531-4d20-85a3-a6319f0c9724" />
+
 
 ### Console Output Summary
 Jenkins performs the following on each build:
